@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -28,11 +31,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1d1lSzlmyAhr0uiVaydATd2Xgch" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -51,7 +56,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.22528736" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
@@ -95,6 +100,9 @@
       <workItem from="1591600487852" duration="1219000" />
       <workItem from="1591601731988" duration="2501000" />
       <workItem from="1591666376809" duration="7068000" />
+      <workItem from="1591683354994" duration="526000" />
+      <workItem from="1591683900565" duration="45000" />
+      <workItem from="1591683996593" duration="600000" />
     </task>
     <servers />
   </component>
@@ -102,10 +110,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="389" y="0" width="735" height="960" key="#ConsumerApplication" timestamp="1591683882116">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="389" y="0" width="735" height="960" key="#ConsumerApplication/0.0.1500.960@0.0.1500.960" timestamp="1591683882116" />
     <state x="343" y="139" key="#Project_Structure" timestamp="1591668539347">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="343" y="139" key="#Project_Structure/0.0.1500.960@0.0.1500.960" timestamp="1591668539347" />
+    <state x="206" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591684596044">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="206" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1591684596044" />
+    <state x="481" y="261" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591684594617">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="481" y="261" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1500.960@0.0.1500.960" timestamp="1591684594617" />
     <state x="534" y="339" width="431" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591672199518">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -142,14 +162,14 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state width="1458" height="256" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1591682114137" />
-    <state x="252" y="122" key="SettingsEditor" timestamp="1591674114622">
+    <state x="252" y="111" key="SettingsEditor" timestamp="1591684474625">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="252" y="122" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1591674114622" />
-    <state x="434" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1591666377130">
+    <state x="252" y="111" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1591684474625" />
+    <state x="434" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1591683914524">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="434" y="304" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1591666377130" />
+    <state x="434" y="304" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1591683914524" />
     <state x="116" y="175" key="new project wizard" timestamp="1591674144975">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
